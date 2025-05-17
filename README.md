@@ -2,9 +2,11 @@
 
 ShoppyGlobe is a basic e-commerce application built with **React**, **Redux**, and **React Router**. It fetches real-time product data from a public API and allows users to browse products, view details, and manage a shopping cart.
 
+- npm install
+
 ## github
 
-- 
+- https://github.com/Krishnamurari7/ecommerce
 
 ## 🚀 Features
 
